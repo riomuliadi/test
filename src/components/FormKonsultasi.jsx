@@ -76,7 +76,7 @@ const FormKonsultasi = () => {
 
         {/* Input Deskripsi */}
         <div style={{ width: '100%' }}>
-          <label style={{ fontWeight: 'bold'}}>Deskripsi:</label>
+          <label style={{ fontWeight: 'bold'}}>Pesan:</label>
           <textarea
             name="description"
             value={formData.description}
